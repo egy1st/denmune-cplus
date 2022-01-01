@@ -1,0 +1,3 @@
+/home/abbas/CLionProjects/denmune/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abbas/CLionProjects/denmune/cmake-build-debug/CMakeFiles/denmune.dir
+/home/abbas/CLionProjects/denmune/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/denmune.dir/main.cpp.o  -o denmune 
